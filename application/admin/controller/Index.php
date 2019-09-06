@@ -4,6 +4,6 @@ class Index
 {
     public function index()
     {
-        return view('index');
+        return 11111111111;
     }
 }
